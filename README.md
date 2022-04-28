@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @1iptton
+- 👀 I’m interested in playing online games
+- 🌱 I’m currently learning engkish
+- 📫 inst: 1iptton , e-mail: asking00ing@gmail.com
