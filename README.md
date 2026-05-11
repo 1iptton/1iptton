@@ -1,4 +1,25 @@
-- 👋 Hi, I’m @1iptton
-- 👀 I’m interested in playing online games
-- 🌱 I’m currently learning engkish
-- 📫 inst: 1iptton , e-mail: asking00ing@gmail.com
+# Hi, I'm Askar 👋
+
+Frontend Developer from Kyrgyzstan
+
+## Tech Stack
+
+- Angular
+- TypeScript
+- JavaScript
+- ASP.NET MVC
+- HTML / SASS / Pug
+- Git / GitHub
+- SQL
+
+## About Me
+
+- Building frontend applications
+- Interested in scalable UI architecture
+- Learning advanced Angular patterns
+- Open to freelance projects
+
+## Contacts
+
+- Telegram: @yourname
+- Email: yourmail@gmail.com
